@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     
     //ini adalah variable umur
     var umur = 20
+    let nama = "group 2"
+    
+    
 
 }
 
