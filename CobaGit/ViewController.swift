@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     }
     
     var umur = 20
+    let nama = "group 2"
+    
+    
 
 
 }
